@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.png" width="100%" alt="Vikas Kumar - Full Stack Developer">
+</p>
 <div align="center">
 <h1># 👋 Hi, I'm Vikas Kumar</h1>
 
