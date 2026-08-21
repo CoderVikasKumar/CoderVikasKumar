@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vikashkumarbharti">
+  <a href="https://github.com/CoderVikasKumar">
     <img src="https://img.shields.io/badge/GitHub-Vikashkumarbharti-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/%EA%AA%9C%C4%B1k%EA%AB%9Ds-kumar-1010b33a2/">
@@ -181,7 +181,7 @@ A browser-based game created to practice JavaScript logic, DOM manipulation and 
 
 <p align="center">
 
-<a href="https://github.com/Vikashkumarbharti">
+<a href="https://github.com/CoderVikasKumar">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
